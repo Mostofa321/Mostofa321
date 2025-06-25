@@ -53,16 +53,9 @@ Tech: HTML5, CSS3, SASS, Bootstrap, jQuery, Slick Slider
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Activity (2024 to Now)
 
-<!-- Lifetime Stats -->
-![Mostofa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostofa321&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostofa321&layout=compact&theme=radical)
-
-<!-- 2024 Activity Graph -->
-### 📈 Contribution Graph (2024 Highlighted)
-
-[![Mostofa's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mostofa321&theme=react-dark&hide_border=true&area=true&custom_title=2024%20GitHub%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mostofa's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mostofa321&theme=react-dark&hide_border=true&area=true&custom_title=2024%20to%20Now%20GitHub%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
