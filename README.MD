@@ -33,7 +33,7 @@
 - 🌱 Currently learning advanced TypeScript, Node.js, and Express  
 - 💬 Ask me about React, Next.js, Redux, Tailwind, REST APIs  
 - 🎯 Goal: Become a full-stack developer and contribute to impactful projects  
-- 🔍 Looking for job/freelance opportunities as a frontend developer
+- 🔍 Looking for job opportunities as a frontend developer
 
 ---
 
